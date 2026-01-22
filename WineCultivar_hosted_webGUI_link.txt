@@ -2,5 +2,5 @@ Name: Adelodun_23CG034020
 Matric Number: 23CG034020
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
-Live URL of the hosted application: [INSERT_RENDER_OR_VERCEL_URL_HERE]
-GitHub repository link: [INSERT_GITHUB_REPO_LINK_HERE]
+Live URL of the hosted application: https://wine-cultivar-project-adelodun-abraham.vercel.app/
+GitHub repository link: https://github.com/Incognitol07/WineCultivar_Project_Adelodun_Abraham_23CG034020
